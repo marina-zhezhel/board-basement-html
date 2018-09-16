@@ -420,7 +420,7 @@
 	</footer>
 	<script src="js/less.min.js" type="text/javascript"></script>
 	<script src="js/jquery-3.3.1.min.js"></script>
-	<script src="js/jquery.cycle2.js"></script>
+	<script src="js/jquery.cycle2.min.js"></script>
 	<script src="js/jquery.cycle2.carousel.min.js"></script>
 	<script src="js/board-basement.min.js" async></script>
 </body>
